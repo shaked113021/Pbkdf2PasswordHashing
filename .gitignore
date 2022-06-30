@@ -8,6 +8,8 @@
 .gradle/**
 gradle
 
+build
+
 # Log file
 *.log
 
