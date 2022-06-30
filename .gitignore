@@ -6,7 +6,6 @@
 
 # gradle
 .gradle/**
-gradle
 
 build
 
